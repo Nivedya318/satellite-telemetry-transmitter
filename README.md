@@ -18,8 +18,6 @@ Objectives
 * Structured packetization with CRC
 * Scalable modular design
 
----
-
 Hardware Used
 
 * Teensy 4.1
